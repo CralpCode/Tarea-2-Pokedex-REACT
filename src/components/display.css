@@ -1,0 +1,16 @@
+.primary-display{
+    height: 80%;
+    width: 80%;
+    background-color: #4cd137;
+    border-radius: 0.5rem;
+    border-top-left-radius: 5rem;
+    color: #34495e;
+}
+
+.display-state{
+    height: 85%;
+    width: 85%;
+    background-color: #4cd137;
+    border-radius: 0.5rem;
+    color: #34495e;
+}

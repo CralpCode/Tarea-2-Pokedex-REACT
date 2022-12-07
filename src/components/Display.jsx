@@ -1,9 +1,9 @@
+import './display.css'
 const url = 'https://pokeapi.co/api/v2/pokemon/ditto'
 
 function Display () {
-    return (<div>
+    return (<div className="primary-display">
         {datos()}
-        
     </div>
 )}
 
