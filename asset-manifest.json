@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CralpCode/Tarea-2-Pokedex-REACT/static/css/main.0aac1fbd.css",
+    "main.js": "/CralpCode/Tarea-2-Pokedex-REACT/static/js/main.3c568746.js",
+    "index.html": "/CralpCode/Tarea-2-Pokedex-REACT/index.html",
+    "main.0aac1fbd.css.map": "/CralpCode/Tarea-2-Pokedex-REACT/static/css/main.0aac1fbd.css.map",
+    "main.3c568746.js.map": "/CralpCode/Tarea-2-Pokedex-REACT/static/js/main.3c568746.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aac1fbd.css",
+    "static/js/main.3c568746.js"
+  ]
+}
