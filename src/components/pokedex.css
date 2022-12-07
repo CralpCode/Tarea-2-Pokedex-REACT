@@ -1,0 +1,17 @@
+.pokedex-l {
+    height: 500px;
+    width: 400px;
+    justify-self: right;
+    background-color: #e84118;
+    border-top-left-radius: 10rem;
+    border-bottom-left-radius: 0.5rem;
+}
+
+.pokedex-R {
+    height: 500px;
+    width: 400px;
+    justify-self: left;
+    background-color: #e84118;
+    border-top-right-radius: 3rem;
+    border-bottom-right-radius: 0.5rem;
+}
