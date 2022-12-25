@@ -92,3 +92,16 @@
     height: 23%;
     justify-content: space-around;
 }
+
+.btn-Rl{
+    margin-right: 5px;
+}
+
+.btn-Rl, .btn-RR{
+    color: #4cd137;
+    height : 30px;
+    width : 70px;
+    background-color: #34495e;
+    border: none;
+    border-radius: 0.5rem;
+}

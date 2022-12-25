@@ -21,21 +21,21 @@ function Pokedexleft() {
          </div>
          <div className="btns-l">
             <div className="d-pad">
-            <div class="arrow-up-dpad">
-              <div class="arrow-up">
+            <div className="arrow-up-dpad">
+              <div className="arrow-up">
                 <img src={require("../assets/up-arrrows.png")} alt={"up-arrow"}/>
               </div>
             </div>
-            <div class="arrow-lr-dpad">
-              <div class="arrow-left">
+            <div className="arrow-lr-dpad">
+              <div className="arrow-left">
                 <img src={require("../assets/left-arrow.png")} alt="left-arrow"/>
               </div>
-              <div class="arrow-rigth">
+              <div className="arrow-rigth">
                 <img src={require("../assets/rigth-arrrows.png")} alt="rigth-arrow"/>
               </div>
             </div>
-            <div class="arrow-down-dpad">
-              <div class="arrow-down">
+            <div className="arrow-down-dpad">
+              <div className="arrow-down">
                 <img src={require("../assets/down-arrow.png")} alt="down-arrow"/>
               </div>
             </div>
