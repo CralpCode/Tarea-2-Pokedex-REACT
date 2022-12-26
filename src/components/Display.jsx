@@ -1,26 +1,12 @@
+import { useContext } from 'react';
 import './display.css'
-const url = 'https://pokeapi.co/api/v2/pokemon/ditto'
+import { TopContext } from '../context/Context';
 
 function Display () {
+    const {imgs} = useContext(TopContext);
     return (<div className="primary-display">
-        <h1>Holaaa = {datos() + 'asda'}</h1>
+        <input type='image' src={imgs}  alt="pokemon"  className='pokeimg'/>
     </div>
-)}
-
-function datos() {
-    var name = '';
-        fetch(url)
-        .then( response => response.json())
-        .then((data) =>{
-            return name = data.name;
-        });
-    return prueba(name);
-}
-
-function prueba(name) {
-    console.log(name);
-    console.log(typeof name);
-    return name;
-}
+)};
 
 export default Display;
