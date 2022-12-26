@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/CralpCode/Tarea-2-Pokedex-REACT/static/css/main.b8fb93d3.css",
-    "main.js": "/CralpCode/Tarea-2-Pokedex-REACT/static/js/main.ad8aed99.js",
-    "static/media/Not-pokemon.png": "/CralpCode/Tarea-2-Pokedex-REACT/static/media/Not-pokemon.38a9e7c453d73095240d.png",
-    "index.html": "/CralpCode/Tarea-2-Pokedex-REACT/index.html",
-    "main.b8fb93d3.css.map": "/CralpCode/Tarea-2-Pokedex-REACT/static/css/main.b8fb93d3.css.map",
-    "main.ad8aed99.js.map": "/CralpCode/Tarea-2-Pokedex-REACT/static/js/main.ad8aed99.js.map"
+    "main.css": "/Tarea-2-Pokedex-REACT/static/css/main.b8fb93d3.css",
+    "main.js": "/Tarea-2-Pokedex-REACT/static/js/main.02f2b182.js",
+    "static/media/Not-pokemon.png": "/Tarea-2-Pokedex-REACT/static/media/Not-pokemon.38a9e7c453d73095240d.png",
+    "index.html": "/Tarea-2-Pokedex-REACT/index.html",
+    "main.b8fb93d3.css.map": "/Tarea-2-Pokedex-REACT/static/css/main.b8fb93d3.css.map",
+    "main.02f2b182.js.map": "/Tarea-2-Pokedex-REACT/static/js/main.02f2b182.js.map"
   },
   "entrypoints": [
     "static/css/main.b8fb93d3.css",
-    "static/js/main.ad8aed99.js"
+    "static/js/main.02f2b182.js"
   ]
 }
