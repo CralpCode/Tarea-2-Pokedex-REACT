@@ -16,9 +16,61 @@
     background-color: #4cd137;
     border-radius: 0.5rem;
     color: #34495e;
+    overflow-y: scroll;
+    font-size: small;
 }
+
+.display-state::-webkit-scrollbar-track{
+    background: transparent;
+}
+
+.display-state::-webkit-scrollbar-track-piece{
+    background: transparent;
+    width: 5px;
+}
+
+.display-state::-webkit-scrollbar{
+    background: transparent;
+    width: 10px;
+}
+
+.display-state::-webkit-scrollbar-thumb{
+    background: #34495e;
+    border-radius: 0.5rem;
+    width: 5px;
+}
+
 
 .pokeimg{
     height: 120px;
     width: 85%;
+}
+
+.mini-statespoke{
+    height: 20px;
+    width: 20px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    color:#34495e;
+    font-size: small;
+    font-weight: bolder;
+}
+
+.mini-statespoke>p{
+    margin : 0;
+    padding: 0;
+}
+
+.directions{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+
+.only-text{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
 }

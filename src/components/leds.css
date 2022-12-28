@@ -9,12 +9,24 @@
     background-color: #4cd137;
 }
 
+.led-green-on{
+    background-color: #22ff00;
+}
+
 .led-red{
     background-color: #d63031;
+
+}
+.led-red-on{
+    background-color: #ff0000;
 }
 
 .led-yellow{
     background-color: #f1c40f;
+
+}
+.led-yellow-on{
+    background-color: #ffcc00;
 }
 
 .led-blue{
